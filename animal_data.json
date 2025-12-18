@@ -1,0 +1,202 @@
+{
+  "Zebra": {
+    "scientific_name": "Equus quagga",
+    "habitat": "Grasslands, savannas, and open woodlands of Africa",
+    "diet": "Herbivore -> primarily grasses",
+    "average_lifespan": "20->25 years",
+    "behavior": "Social animals living in herds with strong family bonds; use unique stripe patterns for recognition and camouflage.",
+    "conservation_status": "Near Threatened",
+    "danger_level": "Medium",
+    "interesting_fact": "Each zebra has a unique pattern of stripes, just like human fingerprints."
+  },
+  "Tiger": {
+    "scientific_name": "Panthera tigris",
+    "habitat": "Tropical rainforests, grasslands, and mangrove swamps across Asia",
+    "diet": "Carnivore -> deer, wild boar, and sometimes livestock",
+    "average_lifespan": "10->15 years in the wild",
+    "behavior": "Solitary, territorial hunters that rely on stealth and power to ambush prey.",
+    "conservation_status": "Endangered",
+    "danger_level": "High",
+    "interesting_fact": "Tigers are the largest cat species and can be identified by their unique stripe patterns."
+  },
+  "Rhinoceros": {
+    "scientific_name": "Rhinocerotidae",
+    "habitat": "Grasslands and tropical bushlands of Africa and Asia",
+    "diet": "Herbivore -> grasses, leaves, and shoots",
+    "average_lifespan": "35->50 years",
+    "behavior": "Usually solitary; known for their poor eyesight but excellent smell and hearing.",
+    "conservation_status": "Critically Endangered (some species)",
+    "danger_level": "High",
+    "interesting_fact": "A rhino’s horn is made of keratin, the same protein found in human hair and nails."
+  },
+  "Ostrich": {
+    "scientific_name": "Struthio camelus",
+    "habitat": "Savannas and semi->arid plains of Africa",
+    "diet": "Omnivore -> seeds, plants, insects, and small animals",
+    "average_lifespan": "40->45 years",
+    "behavior": "Fast runners (up to 70 km/h); use strong legs for defense against predators.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Medium",
+    "interesting_fact": "Ostriches lay the largest eggs of any living land animal."
+  },
+  "Lion": {
+    "scientific_name": "Panthera leo",
+    "habitat": "Grasslands and savannas of sub->Saharan Africa",
+    "diet": "Carnivore -> large herbivores like buffalo and zebra",
+    "average_lifespan": "10->14 years in the wild",
+    "behavior": "Social cats living in groups called prides; males defend territory while females hunt.",
+    "conservation_status": "Vulnerable",
+    "danger_level": "High",
+    "interesting_fact": "A lion’s roar can be heard up to 8 kilometers away."
+  },
+  "Leopard": {
+    "scientific_name": "Panthera pardus",
+    "habitat": "Rainforests, mountains, savannas, and deserts across Africa and Asia",
+    "diet": "Carnivore -> deer, monkeys, and smaller mammals",
+    "average_lifespan": "12->17 years",
+    "behavior": "Solitary and nocturnal; known for stealth and strength to carry prey up trees.",
+    "conservation_status": "Vulnerable",
+    "danger_level": "High",
+    "interesting_fact": "Leopards are excellent climbers and can drag prey twice their weight up a tree."
+  },
+  "Horse": {
+    "scientific_name": "Equus ferus caballus",
+    "habitat": "Domesticated worldwide; prefer grasslands and plains",
+    "diet": "Herbivore -> grasses, grains, and hay",
+    "average_lifespan": "25->30 years",
+    "behavior": "Highly social herd animals; intelligent, trainable, and used by humans for transport and sport.",
+    "conservation_status": "Domesticated",
+    "danger_level": "Medium",
+    "interesting_fact": "Horses can sleep both lying down and standing up."
+  },
+  "Jaguar": {
+    "scientific_name": "Panthera onca",
+    "habitat": "Rainforests, wetlands, and savannas of Central and South America",
+    "diet": "Carnivore -> capybaras, deer, and caimans",
+    "average_lifespan": "12->15 years",
+    "behavior": "Solitary and stealthy; powerful bite can pierce turtle shells and skulls.",
+    "conservation_status": "Near Threatened",
+    "danger_level": "High",
+    "interesting_fact": "Jaguars are strong swimmers and often hunt in water."
+  },
+  "Harbor seal": {
+    "scientific_name": "Phoca vitulina",
+    "habitat": "Coastal waters of the Northern Hemisphere",
+    "diet": "Carnivore -> fish, squid, and crustaceans",
+    "average_lifespan": "25->35 years",
+    "behavior": "Curious and playful; excellent divers that can hold breath for up to 30 minutes.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Medium",
+    "interesting_fact": "Each harbor seal has unique spot patterns like human fingerprints."
+  },
+  "Goat": {
+    "scientific_name": "Capra aegagrus hircus",
+    "habitat": "Mountains, farms, and grasslands worldwide",
+    "diet": "Herbivore -> grass, shrubs, and leaves",
+    "average_lifespan": "10->18 years",
+    "behavior": "Intelligent, curious, and social; known for climbing and jumping agility.",
+    "conservation_status": "Domesticated",
+    "danger_level": "Low",
+    "interesting_fact": "Goats have rectangular pupils that give them a wide field of vision."
+  },
+  "Giraffe": {
+    "scientific_name": "Giraffa camelopardalis",
+    "habitat": "Savannas and open woodlands of Africa",
+    "diet": "Herbivore -> mainly acacia leaves and shoots",
+    "average_lifespan": "20->25 years",
+    "behavior": "Gentle giants that use their long necks to reach tall trees; communicate with low->frequency sounds.",
+    "conservation_status": "Vulnerable",
+    "danger_level": "Medium",
+    "interesting_fact": "A giraffe’s heart can weigh up to 11 kg to pump blood up its long neck."
+  },
+  "Fox": {
+    "scientific_name": "Vulpes vulpes",
+    "habitat": "Forests, grasslands, and urban areas worldwide",
+    "diet": "Omnivore -> small mammals, insects, fruits, and carrion",
+    "average_lifespan": "3->6 years in the wild",
+    "behavior": "Clever and adaptable; use sharp hearing to locate prey underground.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Medium",
+    "interesting_fact": "Foxes communicate with over 40 different sounds."
+  },
+  "Elephant": {
+    "scientific_name": "Elephantidae",
+    "habitat": "Forests and grasslands of Africa and Asia",
+    "diet": "Herbivore -> grass, fruit, bark, and leaves",
+    "average_lifespan": "60-70 years",
+    "behavior": "Highly intelligent and emotional; live in matriarchal herds and show empathy.",
+    "conservation_status": "Endangered (some species)",
+    "danger_level": "High",
+    "interesting_fact": "Elephants can recognize themselves in mirrors, showing self->awareness."
+  },
+  "Eagle": {
+    "scientific_name": "Aquila chrysaetos",
+    "habitat": "Mountains, cliffs, and open plains worldwide",
+    "diet": "Carnivore -> fish, small mammals, and birds",
+    "average_lifespan": "20->30 years",
+    "behavior": "Powerful fliers with sharp eyesight; build large nests called eyries.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Medium",
+    "interesting_fact": "Eagles can spot prey from over 3 kilometers away."
+  },
+  "Deer": {
+    "scientific_name": "Cervidae",
+    "habitat": "Forests, grasslands, and wetlands worldwide",
+    "diet": "Herbivore -> leaves, grass, and twigs",
+    "average_lifespan": "10->20 years",
+    "behavior": "Gentle and alert; known for agility and keen senses to detect predators.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Low",
+    "interesting_fact": "Male deer grow and shed antlers every year."
+  },
+  "Crab": {
+    "scientific_name": "Brachyura",
+    "habitat": "Coastal areas, mangroves, and oceans worldwide",
+    "diet": "Omnivore -> algae, mollusks, detritus",
+    "average_lifespan": "3->12 years",
+    "behavior": "Sidewalk movers; communicate by drumming or waving pincers.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Low",
+    "interesting_fact": "Crabs can regenerate lost limbs over time."
+  },
+  "Chicken": {
+    "scientific_name": "Gallus gallus domesticus",
+    "habitat": "Domesticated globally; originally from tropical Asia",
+    "diet": "Omnivore -> seeds, grains, and insects",
+    "average_lifespan": "5->10 years",
+    "behavior": "Social birds with strong pecking order; communicate with specific calls.",
+    "conservation_status": "Domesticated",
+    "danger_level": "Low",
+    "interesting_fact": "Chickens can remember over 100 faces, both human and chicken."
+  },
+  "Caterpillar": {
+    "scientific_name": "Lepidoptera larvae",
+    "habitat": "Forests, gardens, and meadows worldwide",
+    "diet": "Herbivore -> leaves and plants",
+    "average_lifespan": "Few weeks (before metamorphosis)",
+    "behavior": "Voracious eaters preparing for transformation into butterflies or moths.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Low",
+    "interesting_fact": "Caterpillars have up to 4,000 muscles in their tiny bodies."
+  },
+  "Cheetah": {
+    "scientific_name": "Acinonyx jubatus",
+    "habitat": "Savannas and grasslands of Africa and Iran",
+    "diet": "Carnivore -> gazelles and small antelopes",
+    "average_lifespan": "10->12 years",
+    "behavior": "Fastest land animal; hunts during the day using sight instead of smell.",
+    "conservation_status": "Vulnerable",
+    "danger_level": "High",
+    "interesting_fact": "Cheetahs can accelerate from 0 to 100 km/h in about 3 seconds."
+  },
+  "Butterfly": {
+    "scientific_name": "Lepidoptera",
+    "habitat": "Meadows, forests, and gardens worldwide",
+    "diet": "Herbivore -> nectar from flowers",
+    "average_lifespan": "1->3 weeks",
+    "behavior": "Gentle and delicate pollinators; rely on visual cues for finding flowers.",
+    "conservation_status": "Least Concern",
+    "danger_level": "Low",
+    "interesting_fact": "Butterflies taste with their feet to find suitable plants for laying eggs."
+  }
+}

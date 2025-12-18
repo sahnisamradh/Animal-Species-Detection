@@ -1,0 +1,8 @@
+train: C:/Users/SAMRADH SAHNI/Downloads/Dataset_dip/yolo_dataset_balanced/images/train
+val: C:/Users/SAMRADH SAHNI/Downloads/Dataset_dip/yolo_dataset_balanced/images/val
+test: C:/Users/SAMRADH SAHNI/Downloads/Dataset_dip/yolo_dataset_balanced/images/test
+
+nc: 20
+names: [ 'Zebra', 'Tiger', 'Rhinoceros', 'Ostrich', 'Lion', 'Leopard', 'Horse', 'Jaguar',
+         'Harbor seal', 'Goat', 'Giraffe', 'Fox', 'Elephant', 'Eagle', 'Deer',
+         'Crab', 'Chicken', 'Caterpillar', 'Cheetah', 'Butterfly' ]
